@@ -1,4 +1,4 @@
-# BachelorThesis
+# Appendix
 This repository contains supplementary material for my bachelor's thesis on the topic "Characterizing stopping behavior in pigeons (_Columba livia_) using markerless pose estimation".
 
 In the thesis, I used tools for markerless 3D pose estimation (namely, [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) and [Anipose](https://github.com/lambdaloop/anipose) to track the behavior of pigeons during a go/no-go paradigm and stop-signal paradigm. Here, I provide the Jupter Notebooks that were used for Data Processing and Data Analysis:
